@@ -1,16 +1,12 @@
-### Hi there 👋
+![enter image description here](https://imgur.com/1ueGU96.png)
+# Welcome to my profile enjoy it 
 
+# My talents 
+``- Javascript``
+``- Html``
+``- Css``
+``- React``
+``- Node.js``
+``- C#``
 
-**lah310/lah310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![enter image description here](https://img.wattpad.com/340aa34ae546a243447c89791a83440d4eab7394/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4b4148576d354a77417a334b71513d3d2d313039383335333637372e313639313431306238653739376434393931323531363130373735322e676966)
